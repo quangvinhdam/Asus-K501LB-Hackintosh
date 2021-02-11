@@ -2,7 +2,7 @@
 
 # Specs:
 - Microprocessor: Intel® Core™ i5 5200U
-- Video graphics: Intel® HD Graphics 620
+- Video graphics: Intel® HD Graphics 5500
 - Display: 15.6" 16:9 Full HD (1920x1080)
 - Camera: VGA Web Camera
 - Network interface: 
