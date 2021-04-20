@@ -1,4 +1,4 @@
-# Asus-K501LB-Hackintosh-Mojave
+# Asus-K501LB-Hackintosh
 
 # Specs:
 - Microprocessor: Intel® Core™ i5 5200U
